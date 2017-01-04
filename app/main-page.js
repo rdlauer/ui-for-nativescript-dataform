@@ -11,9 +11,9 @@ exports.pageLoaded = function(args) {
 	album = {
 		bandName: "Arcade Fire",
 		albumName: "Funeral",
-		year: 2004,
+		year: "2004",
 		owned: true,
-		myRating: 9.5
+		myRating: "9.5"
 	};
 
 	pageData.set("album", album);
