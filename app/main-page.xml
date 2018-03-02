@@ -1,4 +1,4 @@
-<Page xmlns:df="nativescript-pro-ui/dataform" xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded">
+<Page xmlns:df="nativescript-ui-dataform" xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded">
 	<ActionBar title="RadDataForm Demo" class="action-bar" />
 	<df:RadDataForm id="myDataForm" source="{{ album }}">
 		
